@@ -1,2 +1,2 @@
 # comment
-用于giscus连接
+use to giscus for comment
